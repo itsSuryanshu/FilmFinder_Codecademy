@@ -1,4 +1,4 @@
-const tmdbKey = config.tmdbKEY; //Use your own key
+const tmdbKey = config.tmdbKEY; // Replace with your own key to make the website work properly.
 const tmdbBaseUrl = "https://api.themoviedb.org/3/";
 const playBtn = document.getElementById("playBtn");
 
